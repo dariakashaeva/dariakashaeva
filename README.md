@@ -3,6 +3,7 @@
 ### About me:
 <div>⭐ I am a QA from Ukraine. I graduated from QALight courses, after that I was engaged in testing websites and computer games.
 Now I work at KARAKUM Soft, creating great projects with incredible people.</div>
+<div>My CV:  </div>
 <div>⭐ Pronouns: she/her</div>
 <div>⭐ Fun fact: I have three dogs and a cat</div>
 
@@ -24,3 +25,25 @@ Now I work at KARAKUM Soft, creating great projects with incredible people.</div
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
 </div>
+
+---
+
+### 📚 Test documentation:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🧾 Some of my latest projects :
+
+<div>During work at KARAKUM Soft (2024-now)</div>
+
+-
+
+<div>During work at QALight Outsource (2023-2024)</div>
+
+- [Крила в майбутнє](https://develop.kryla.io/ua/)
+- [Сервісний центр AppleHub](https://applehub.com.ua/)
+- [BOSS FIGHTERS](https://store.steampowered.com/app/1784650/BOSS_FIGHTERS/)
