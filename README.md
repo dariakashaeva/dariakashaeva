@@ -1,15 +1,21 @@
 ### Hi there, my name is Darіa and I am a QA Engineer 👋
 ---
 ### About me:
-<div>⭐ I am a QA from Ukraine. I graduated from QALight courses, after that I was engaged in testing websites and computer games.
+<div>⭐ I am a Manual QA from Ukraine. I graduated from QALight courses, after that I was engaged in testing websites and computer games.
 Now I work at KARAKUM Soft, creating great projects with incredible people.</div>
 <div>My CV:  </div>
 <div>⭐ Pronouns: she/her</div>
 <div>⭐ Fun fact: I have three dogs and a cat</div>
 
-<div>⭐ 💟 Find me:
+<div>💟 Find me:
   
 [![LinkedIn Badge](https://img.shields.io/badge/-@dariakashaeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daria-kashaeva-450736276/) </div>
+
+---
+
+### Skills:
+
+<div>Manual testing, work with requirements, creation of check letters, test cases, bug reports.</div>
 
 ---
 
