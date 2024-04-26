@@ -1,4 +1,4 @@
-### Hi there, my name is Darya and I am a QA Engineer 👋
+### Hi there, my name is Darіa and I am a QA Engineer 👋
 ---
 ### About me:
 <div>⭐ I am a QA from Ukraine. I graduated from QALight courses, after that I was engaged in testing websites and computer games.
